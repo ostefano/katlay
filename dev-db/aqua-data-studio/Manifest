@@ -1,0 +1,8 @@
+DIST ads-java-novm-4.7.2.tar.gz 15024573 RMD160 f681e107ab4350dadbef995401a5a84b350cda5b SHA1 c06d0828faff7424c60ca9ca0ff661bfe103ca34 SHA256 c6c7dc430781feb33a7c0720a7534426fd65b128a9dcd5d1df6fe11c5c0daf1f
+EBUILD aqua-data-studio-4.7.2.ebuild 1378 RMD160 fdf0801e5c8f8f01a27f324dfae50e234f3e68d1 SHA1 ea05132e4eb1d1b0ec7e5a6d6ba37e42572aad34 SHA256 4a88f2ddd2f5f7926da0d277afb020a1d0029f07822728f855df891c37cd0a83
+MD5 4f52e66497c3d5bbde63a2965e4963ca aqua-data-studio-4.7.2.ebuild 1378
+RMD160 fdf0801e5c8f8f01a27f324dfae50e234f3e68d1 aqua-data-studio-4.7.2.ebuild 1378
+SHA256 4a88f2ddd2f5f7926da0d277afb020a1d0029f07822728f855df891c37cd0a83 aqua-data-studio-4.7.2.ebuild 1378
+MD5 6efdb6f2c323a363d4f9bf22ca87c970 files/digest-aqua-data-studio-4.7.2 265
+RMD160 053e718637b00d93848c1f42bc5dbfcf64b8da68 files/digest-aqua-data-studio-4.7.2 265
+SHA256 b8f0988b109564914c9da280c87144cb2bc190063de6c1dfee86b35370a58a6c files/digest-aqua-data-studio-4.7.2 265
